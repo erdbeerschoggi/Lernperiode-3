@@ -9,8 +9,8 @@
 
 ## 10.1.2025
 
-- [ ] ...
-- [ ] ...
+- [ ] sich mit Winforms bekannt machen
+- [ ] Ein kleines Projekt starten
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
