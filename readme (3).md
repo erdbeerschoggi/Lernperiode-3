@@ -9,12 +9,17 @@
 
 ## 10.1.2025
 
-- [ ] sich mit Winforms bekannt machen
-- [ ] Ein kleines Projekt starten
+- [x] sich mit Winforms bekannt machen
+- [x] Ein kleines Projekt starten
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe mich zum beginn mit Winforms bekannt gemacht, also ich habe sachen rausprobiert, so das ich verstehe was man ungefähr machen kann. Als ich das fertig hatte fing ich mit meinem kleinen Projekt an, was ich auch zu Ende bringen konnte. Das Projekt war ein einfacher Taschenrechner.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
-## ...
+## 17.01.2025
+- [ ] auf Winforms eine animation probieren zu herstellen
+- [ ] etwas beim taschenrechner ändern
+- [ ] ein neues kleines Projekt starten
+- [ ] kleines tiktaktoe game erstellen (wenn es zeitlich langt)
+      
 
