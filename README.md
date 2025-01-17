@@ -7,7 +7,7 @@ Sich mit Winforms bekannt machen & ein kleines Projekt programmieren.
 
 ## Projekt
 
-Das ist das TicTacToe Spiel:
+Das ist der Taschenrechner:
 
 
 
@@ -17,7 +17,7 @@ Das ist das TicTacToe Spiel:
 ![Bildschirmaufnahme 2025-01-17 155442 (1)](https://github.com/user-attachments/assets/caaf98f8-f804-4049-88cd-408c1a69ac7e)
 
 
-Das ist der Taschenrechner:
+Das ist das TicTacToe Spiel:
 
 
 
