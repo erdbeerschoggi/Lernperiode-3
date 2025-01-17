@@ -23,8 +23,8 @@ Heute habe ich mich zum beginn mit Winforms bekannt gemacht, so das ich verstehe
 Heute habe ich ein neues Projekt angefangen und zwar ein Tictactoe Spiel, da ich auch ein Tictactoe spiel schon bei meinem ersten Projekt erstellt habe wollte ich das nun bei Winforms probieren. Ich habe das Spiel fertig programmiert, doch zum schluss ist mir noch ein Fehler aufgetaucht und den muss ich noch verbessern.
 
 ## 24.01.2025
-- [ ] Den Fehler beim Tictactoe spiel finden und verbessern.
-- [ ] Einwenig mit Winforms herumprobieren.
+- [x] Den Fehler beim Tictactoe spiel finden und verbessern.
+- [x] Einwenig mit Winforms herumprobieren.
 - [ ] Taschenrechner verbessern (entweder Kommazahlen hinzufügen oder besser runden)
 
-   
+Heute habe ich noch beim TicTacToe Spiel den Fehler probiert zu finden. Deswegen habe ich den code einpaar mal durchgelesen um herauszufinden was der Fehler sein könnte, doch ich konnte keinen finden. Ich habe jedoch herausgefunden das wenn man das Spiel einfach restarten muss, wenn man das Spiel spielen möchte. Nach dem ich es herausgefunden habe wollte ich einfach noch einwenig mit Winforms herumexperimentieren und habe alle zeichen durchgeschaut.
