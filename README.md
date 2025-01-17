@@ -3,9 +3,22 @@
 10.1 bis 24.1
 
 ## Grob-Planung
+Sich mit Winforms bekannt machen & ein kleines Projekt programmieren.
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-4. Was wäre ein geeignetes Projekt für diese LP3?
+## Projekt
+
+
+
+https://github.com/user-attachments/assets/b43f5503-eb9a-4ae5-9c5b-64bc545ad88f
+
+
+Das ist das TicTacToe spiel 
+
+
+
+## Reflexion
+
+
 
 ## 10.1.2025
 
@@ -28,3 +41,5 @@ Heute habe ich ein neues Projekt angefangen und zwar ein Tictactoe Spiel, da ich
 - [ ] Taschenrechner verbessern (entweder Kommazahlen hinzufügen oder besser runden)
 
 Heute habe ich noch beim TicTacToe Spiel den Fehler probiert zu finden. Deswegen habe ich den code einpaar mal durchgelesen um herauszufinden was der Fehler sein könnte, doch ich konnte keinen finden. Ich habe jedoch herausgefunden das wenn man das Spiel einfach restarten muss, wenn man das Spiel spielen möchte. Nach dem ich es herausgefunden habe wollte ich einfach noch einwenig mit Winforms herumexperimentieren und habe alle zeichen durchgeschaut.
+
+Für die nächste Lernperiode habe ich mir überlegt eine To do list zu erstellen, jedoch wäre ein Pong oder ein Memory spiel auch sehr spannend zu programmierne.
