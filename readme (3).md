@@ -14,12 +14,19 @@
 
 Heute habe ich mich zum beginn mit Winforms bekannt gemacht, so das ich verstehen kann wie Winforms ungefähr funktioniert. Als ich das fertig hatte, fing ich mit meinem kleinen Projekt an, was ich auch zu Ende bringen konnte. Das Projekt war ein einfacher Taschenrechner. Der Taschenrechner kann einfache Rechnungen berechnen
 
-
-
 ## 17.01.2025
 - [ ] neue Sachen auf Winforms ausprobieren.
 - [ ] den Taschenrechner verbessern, da er bis jetzt nur einfache Rechnungen machen kann.
-- [ ] ein neues kleines Projekt starten
-- [ ] kleines tiktaktoe game erstellen (wenn es zeitlich reicht)
+- [x] ein neues kleines Projekt starten
+- [x] kleines tictactoe game erstellen (wenn es zeitlich reicht)
+
+
+## 24.01.2025
+- [ ]
+- [ ]
+- [ ]
+
+   
+
       
 
