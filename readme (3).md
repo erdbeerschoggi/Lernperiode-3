@@ -12,7 +12,7 @@
 - [x] sich mit Winforms bekannt machen
 - [x] Ein kleines Projekt starten
 
-Heute habe mich zum beginn mit Winforms bekannt gemacht, also ich habe sachen rausprobiert, so das ich verstehe was man ungefähr machen kann. Als ich das fertig hatte fing ich mit meinem kleinen Projekt an, was ich auch zu Ende bringen konnte. Das Projekt war ein einfacher Taschenrechner.
+Heute habe ich mich zum beginn mit Winforms bekannt gemacht, so das ich verstehen kann wie Winforms ungefähr funktioniert. Als ich das fertig hatte, fing ich mit meinem kleinen Projekt an, was ich auch zu Ende bringen konnte. Das Projekt war ein einfacher Taschenrechner. Der Taschenrechner kann einfache Rechnungen berechnen
 
 
 
