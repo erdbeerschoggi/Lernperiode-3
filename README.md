@@ -7,19 +7,16 @@ Sich mit Winforms bekannt machen & ein kleines Projekt programmieren.
 
 ## Projekt
 
-
+Das ist das TicTacToe Spiel:
 ![Bildschirmaufnahme 2025-01-17 155442 (1)](https://github.com/user-attachments/assets/caaf98f8-f804-4049-88cd-408c1a69ac7e)
 
 
-
-Das ist das TicTacToe spiel 
-
+Das ist der Taschenrechner:
 ![Bildschirmaufnahme 2025-01-17 154112 (1)](https://github.com/user-attachments/assets/c51755e8-44ff-46f6-870e-de15d7cb652a)
 
 
 ## Reflexion
-
-
+Mein Vorgang bei dieser Kurzen Lernperiode verlief indem ich mir auf youtube tutorials suchte, wo es erklärt wurde wie diese programmiert wurden. Ich habe das Video geschaut und es selber probiert umzusetzen, bei den stellen wo ich mir noch unsicher war, schaute ich immer wieder nach. Natürlich passte ich einwenig sachen von den Tutorials für mich an.
 
 ## 10.1.2025
 
