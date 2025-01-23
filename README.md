@@ -6,6 +6,9 @@
 Sich mit Winforms bekannt machen & ein kleines Projekt programmieren.
 
 ## Projekt
+Ich habe ein Tic-Tac-Toe-Spiel und einen einfachen Taschenrechner erstellt. Das Tic-Tac-Toe-Spiel ist selbsterklärend: Man spielt in den Feldern das Spiel, und währenddessen werden die Gewinne und Unentschieden der Spieler gezählt.
+
+Der Taschenrechner, den ich erstellt habe, kann alle Rechnungen berechnen. Allerdings ist mir nicht so gut gelungen, dass der Taschenrechner genau rundet. Wenn zum Beispiel das Ergebnis 1,9 wäre, würde der Taschenrechner abrunden und als Ergebnis 1 angeben.
 
 Das ist der Taschenrechner:
 
